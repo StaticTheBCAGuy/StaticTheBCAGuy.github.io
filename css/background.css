@@ -1,0 +1,13 @@
+body{
+    background-image: url(/Images/background_image_contact.jpg);
+}
+
+#exampleFormControlInput1{
+    background-color: aquamarine;
+    color: #010101;
+}
+
+#exampleFormControlTextarea1{
+    background-color: aquamarine;
+    color: #010101;
+}
